@@ -1,0 +1,16 @@
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.exe
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.deps.json
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.runtimeconfig.json
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.runtimeconfig.dev.json
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.dll
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\ref\TestCs.dll
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\bin\Debug\net5.0\TestCs.pdb
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.csprojAssemblyReference.cache
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.AssemblyInfoInputs.cache
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.AssemblyInfo.cs
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.csproj.CoreCompileInputs.cache
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.dll
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\ref\TestCs.dll
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.pdb
+C:\Users\SalaheddineNAMIR\source\repos\SolutionTestCs\TestCs\obj\Debug\net5.0\TestCs.genruntimeconfig.cache
